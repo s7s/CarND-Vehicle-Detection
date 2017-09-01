@@ -58,7 +58,7 @@ But I gave the small windows high weight by repeating them maltiple times and th
 
 And hear is the search windows:
 
-<img src="./writeup_images/17.jpg" alt="gray" width="900">
+<img src="./writeup_images/17.jpg" alt="gray" width="500">
 
 #### 2. Show some examples of test images to demonstrate how your pipeline is working.  What did you do to optimize the performance of your classifier?
 
